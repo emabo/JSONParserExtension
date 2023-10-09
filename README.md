@@ -117,7 +117,7 @@ In this example, we parse a JSON string, access its values by key, and store the
 
 ### Blocks
 
-![All blocks of JSONParser extension](https://github.com/emabo/JSONParserExtension/images/blocks.png)
+![All blocks of JSONParser extension](https://github.com/emabo/JSONParserExtension/raw/main/images/blocks.png)
 
 ### How to create Kodular extension
 
